@@ -4,7 +4,7 @@
 </div>
 
 <br>
-
+  
 [![Build status](https://github.com/availproject/avail/actions/workflows/default.yml/badge.svg)](https://github.com/availproject/avail/actions/workflows/default.yml)
 
 
